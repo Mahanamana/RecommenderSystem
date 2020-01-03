@@ -1,2 +1,2 @@
 # RecomenderSystem
-Recomender System Capstone EDX with python
+Recomender System using MovieLens Dataset
